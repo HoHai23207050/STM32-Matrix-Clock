@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/41bd6e47-7a9f-49bd-901e-c7a29c76ba0b
+
 
 # STM32 Multi-functional Real-Time Matrix Clock
 
@@ -10,7 +10,7 @@ This project is a multi-functional smart clock built around the STM32F103C8T6 (B
 ## Demo Video
 *(If the video doesn't autoplay, please click the play button or unmute)*
 
-<video src="DemoClockMatrix.mp4" autoplay loop muted playsinline width="100%" controls></video>
+<video src="[DemoClockMatrix.mp4](https://github.com/user-attachments/assets/41bd6e47-7a9f-49bd-901e-c7a29c76ba0b)" autoplay loop muted playsinline width="100%" controls></video>
 
 ## Features
 * **Mode 1: Real-Time Clock:** Displays current hours and minutes accurately.
