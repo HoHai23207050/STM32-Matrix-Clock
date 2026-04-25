@@ -10,11 +10,7 @@ This project is a multi-functional smart clock built around the STM32F103C8T6 (B
 ## Demo Video
 *(If the video doesn't autoplay, please click the play button or unmute)*
 
-<video src="
-
-https://github.com/user-attachments/assets/a5935287-7714-41e3-991b-d42bb746eb77
-
-" autoplay loop muted playsinline width="100%" controls></video>
+<video src="https://github.com/user-attachments/assets/a5935287-7714-41e3-991b-d42bb746eb77" autoplay loop muted playsinline width="100%" controls></video>
 
 ## Features
 * **Mode 1: Real-Time Clock:** Displays current hours and minutes accurately.
