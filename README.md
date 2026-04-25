@@ -3,6 +3,11 @@
 ## Overview
 This project is a multi-functional smart clock built around the STM32F103C8T6 (BluePill) microcontroller. It features an 8x32 LED Matrix display to provide a clear, real-time readout of time and environmental temperature, along with a Pomodoro timer function designed to help students and professionals improve focus and productivity.
 
+## Demo Video
+*(If the video doesn't autoplay, please click the play button or unmute)*
+
+<video src="DemoClockMatrix.mp4" autoplay loop muted playsinline width="100%" controls></video>
+
 ## Features
 * **Mode 1: Real-Time Clock:** Displays current hours and minutes accurately.
 * **Mode 2: Temperature Display:** Shows the current ambient temperature in Celsius.
@@ -43,7 +48,6 @@ This project is a multi-functional smart clock built around the STM32F103C8T6 (B
 * **Source Code:** (Add the path/instructions for your code here, e.g., `Core/Src/main.c`)
 * `Nhóm 7_BÁO CÁO ĐỒ ÁN VI ĐIỀU KHIỂN.pdf`: Detailed project report (Vietnamese).
 * `Nhóm 7_BÁO CÁO ĐỒ ÁN VI ĐIỀU KHIỂN.pptx`: Presentation slides.
-* `DemoClockMatrix.mp4`: A demonstration video of the working product.
 
 ## Team Members (Nhóm 7 - HCMUS)
 * Nguyễn Trần Quốc Bảo
